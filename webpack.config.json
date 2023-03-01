@@ -8,5 +8,5 @@
         ]
     },
 entry: {
-        "mylib": path.resolve(__dirname, 'src/main.ts')
+        "mylib": path.resolve(__dirname, './src/main.ts')
     },
